@@ -3,7 +3,7 @@ Top Coding Interview Questions Based on Leetcode with Java
 
 P.no |     Problem |                Solution | Difficulty | 
 --- | --- | --- | --- |
-15 | [3Sum     ](https://leetcode.com/problems/3sum) | [To-Do]() | Medium |
+15 | [3Sum     ](https://leetcode.com/problems/3sum) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_15/Solution.java) | Medium |
 454 | [4Sum II     ](https://leetcode.com/problems/4sum-ii/) | [To-Do]() | Medium |
 2 | [Add Two Numbers     ](https://leetcode.com/problems/add-two-numbers) | [To-Do]() | Medium |
 269 | [Alien Dictionary     ](https://leetcode.com/problems/alien-dictionary/) | [To-Do]() | Hard |
