@@ -7,13 +7,13 @@ P.no |     Problem |                Solution | Difficulty |
 454 | [4Sum II     ](https://leetcode.com/problems/4sum-ii/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_454/Solution.java) | Medium |
 2 | [Add Two Numbers     ](https://leetcode.com/problems/add-two-numbers) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_2/Solution.java) | Medium |
 269 | [Alien Dictionary     ](https://leetcode.com/problems/alien-dictionary/) | Premium | Hard |
-227 | [Basic Calculator II     ](https://leetcode.com/problems/basic-calculator-ii) | [To-Do]() | Medium |
+227 | [Basic Calculator II     ](https://leetcode.com/problems/basic-calculator-ii) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_227/Solution.java) | Medium |
 121 | [Best Time to Buy and Sell Stock     ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_121/Solution.java) | Easy |
 122 | [Best Time to Buy and Sell Stock II     ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_122/Solution.java) | Easy |
 94 | [Binary Tree Inorder Traversal     ](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_94/Solution.java) | Medium |
-102 | [Binary Tree Level Order Traversal     ](https://leetcode.com/problems/binary-tree-level-order-traversal) | [To-Do]() | Medium |
-124 | [Binary Tree Maximum Path Sum     ](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [To-Do]() | Hard |
-103 | [Binary Tree Zigzag Level Order Traversal     ](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [To-Do]() | Medium |
+102 | [Binary Tree Level Order Traversal     ](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_102/Solution.java) | Medium |
+124 | [Binary Tree Maximum Path Sum     ](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_124/Solution.java) | Hard |
+103 | [Binary Tree Zigzag Level Order Traversal     ](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_103/Solution.java) | Medium |
 70 | [Climbing Stairs     ](https://leetcode.com/problems/climbing-stairs/) | [To-Do]() | Easy |
 322 | [Coin Change     ](https://leetcode.com/problems/coin-change) | [To-Do]() | Medium |
 105 | [Construct Binary Tree from Preorder and Inorder Traversal     ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [To-Do]() | Medium |
