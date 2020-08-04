@@ -16,7 +16,7 @@ P.no |     Problem |                Solution | Difficulty |
 103 | [Binary Tree Zigzag Level Order Traversal     ](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_103/Solution.java) | Medium |
 70 | [Climbing Stairs     ](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_70/Solution.java) | Easy |
 322 | [Coin Change     ](https://leetcode.com/problems/coin-change) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_322/Solution.java) | Medium |
-105 | [Construct Binary Tree from Preorder and Inorder Traversal     ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [To-Do]() | Medium |
+105 | [Construct Binary Tree from Preorder and Inorder Traversal     ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_105/Solution.java) | Medium |
 11 | [Container With Most Water     ](https://leetcode.com/problems/container-with-most-water/) | [To-Do]() | Medium |
 217 | [Contains Duplicate     ](https://leetcode.com/problems/contains-duplicate/) | [To-Do]() | Easy |
 108 | [Convert Sorted Array to Binary Search Tree     ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [To-Do]() | Easy |
