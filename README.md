@@ -17,10 +17,10 @@ P.no |     Problem |                Solution | Difficulty |
 70 | [Climbing Stairs     ](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_70/Solution.java) | Easy |
 322 | [Coin Change     ](https://leetcode.com/problems/coin-change) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_322/Solution.java) | Medium |
 105 | [Construct Binary Tree from Preorder and Inorder Traversal     ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_105/Solution.java) | Medium |
-11 | [Container With Most Water     ](https://leetcode.com/problems/container-with-most-water/) | [To-Do]() | Medium |
-217 | [Contains Duplicate     ](https://leetcode.com/problems/contains-duplicate/) | [To-Do]() | Easy |
-108 | [Convert Sorted Array to Binary Search Tree     ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [To-Do]() | Easy |
-138 | [Copy List with Random Pointer     ](https://leetcode.com/problems/copy-list-with-random-pointer/) | [To-Do]() | Medium |
+11 | [Container With Most Water     ](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_11/Solution.java) | Medium |
+217 | [Contains Duplicate     ](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_217/Solution.java) | Easy |
+108 | [Convert Sorted Array to Binary Search Tree     ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_108/Solution.java) | Easy |
+138 | [Copy List with Random Pointer     ](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_138/Solution.java) | Medium |
 204 | [Count Primes     ](https://leetcode.com/problems/count-primes/) | [To-Do]() | Easy |
 38 | [Count and Say     ](https://leetcode.com/problems/count-and-say) | [To-Do]() | Easy |
 315 | [Count of Smaller Numbers After Self     ](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [To-Do]() | Hard |
