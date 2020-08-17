@@ -21,8 +21,8 @@ P.no |     Problem |                Solution | Difficulty |
 217 | [Contains Duplicate     ](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_217/Solution.java) | Easy |
 108 | [Convert Sorted Array to Binary Search Tree     ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_108/Solution.java) | Easy |
 138 | [Copy List with Random Pointer     ](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_138/Solution.java) | Medium |
-204 | [Count Primes     ](https://leetcode.com/problems/count-primes/) | [To-Do]() | Easy |
-38 | [Count and Say     ](https://leetcode.com/problems/count-and-say) | [To-Do]() | Easy |
+204 | [Count Primes     ](https://leetcode.com/problems/count-primes/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_204/Solution.java) | Easy |
+38 | [Count and Say     ](https://leetcode.com/problems/count-and-say) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_38/Solution.java) | Easy |
 315 | [Count of Smaller Numbers After Self     ](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [To-Do]() | Hard |
 207 | [Course Schedule     ](https://leetcode.com/problems/course-schedule/) | [To-Do]() | Medium |
 210 | [Course Schedule II     ](https://leetcode.com/problems/course-schedule-ii/) | [To-Do]() | Medium |
