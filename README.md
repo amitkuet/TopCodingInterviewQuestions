@@ -24,7 +24,7 @@ P.no |     Problem |                Solution | Difficulty |
 204 | [Count Primes     ](https://leetcode.com/problems/count-primes/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_204/Solution.java) | Easy |
 38 | [Count and Say     ](https://leetcode.com/problems/count-and-say) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_38/Solution.java) | Easy |
 315 | [Count of Smaller Numbers After Self     ](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [To-Do]() | Hard |
-207 | [Course Schedule     ](https://leetcode.com/problems/course-schedule/) | [To-Do]() | Medium |
+207 | [Course Schedule     ](https://leetcode.com/problems/course-schedule/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_207/Solution.java) | Medium |
 210 | [Course Schedule II     ](https://leetcode.com/problems/course-schedule-ii/) | [To-Do]() | Medium |
 91 | [Decode Ways    ](https://leetcode.com/problems/decode-ways) | [To-Do]() | Medium |
 237 | [Delete Node in a Linked List     ](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [To-Do]() | Easy |
