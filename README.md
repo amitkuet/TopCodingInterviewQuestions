@@ -39,7 +39,7 @@ P.no |     Problem |                Solution | Difficulty |
 277 | [Find the Celebrity     ](https://leetcode.com/problems/find-the-celebrity/) | [To-Do]() | Medium |
 287 | [Find the Duplicate Number     ](https://leetcode.com/problems/find-the-duplicate-number) | [To-Do]() | Medium |
 41 | [First Missing Positive     ](https://leetcode.com/problems/first-missing-positive/) | [To-Do]() | Hard |
-387 | [First Unique Character in a String     ](https://leetcode.com/problems/first-unique-character-in-a-string/) | [To-Do]() | Easy |
+387 | [First Unique Character in a String     ](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_387/Solution.java) | Easy |
 412 | [Fizz Buzz     ](https://leetcode.com/problems/fizz-buzz) | [To-Do]() | Easy |
 251 | [Flatten 2D Vector     ](https://leetcode.com/problems/flatten-2d-vector) | [To-Do]() | Medium |
 341 | [Flatten Nested List Iterator     ](https://leetcode.com/problems/flatten-nested-list-iterator/) | [To-Do]() | Medium |
@@ -65,8 +65,8 @@ P.no |     Problem |                Solution | Difficulty |
 179 | [Largest Number     ](https://leetcode.com/problems/largest-number/) | [To-Do]() | Medium |
 84 | [Largest Rectangle in Histogram     ](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [To-Do]() | Hard |
 17 | [Letter Combinations of a Phone Number     ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [To-Do]() | Medium |
-141 | [Linked List Cycle     ](https://leetcode.com/problems/linked-list-cycle/) | [To-Do]() | Easy |
-14 | [Longest Common Prefix     ](https://leetcode.com/problems/longest-common-prefix/) | [To-Do]() | Easy |
+141 | [Linked List Cycle     ](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_141/Solution.java) | Easy |
+14 | [Longest Common Prefix     ](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_14/Solution.java) | Easy |
 128 | [Longest Consecutive Sequence     ](https://leetcode.com/problems/longest-consecutive-sequence/) | [To-Do]() | Hard |
 329 | [Longest Increasing Path in a Matrix     ](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [To-Do]() | Hard |
 300 | [Longest Increasing Subsequence     ](https://leetcode.com/problems/longest-increasing-subsequence/) | [To-Do]() | Medium |
@@ -134,12 +134,12 @@ P.no |     Problem |                Solution | Difficulty |
 218 | [The Skyline Problem     ](https://leetcode.com/problems/the-skyline-problem/) | [To-Do]() | Hard |
 347 | [Top K Frequent Elements     ](https://leetcode.com/problems/top-k-frequent-elements) | [To-Do]() | Medium |
 42 | [Trapping Rain Water     ](https://leetcode.com/problems/trapping-rain-water) | [To-Do]() | Hard |
-1 | [Two Sum     ](https://leetcode.com/problems/two-sum/) | [To-Do]() | Easy |
-62 | [Unique Paths     ](https://leetcode.com/problems/unique-paths/) | [To-Do]() | Medium |
-242 | [Valid Anagram     ](https://leetcode.com/problems/valid-anagram/) | [To-Do]() | Easy |
-125 | [Valid Palindrome    ](https://leetcode.com/problems/valid-palindrome) | [To-Do]() | Easy |
-20 | [Valid Parentheses     ](https://leetcode.com/problems/valid-parentheses/) | [To-Do]() | Easy |
-36 | [Valid Sudoku     ](https://leetcode.com/problems/valid-sudoku/) | [To-Do]() | Medium |
+1 | [Two Sum     ](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_1/Solution.java) | Easy |
+62 | [Unique Paths     ](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_62/Solution.java) | Medium |
+242 | [Valid Anagram     ](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_242/Solution.java) | Easy |
+125 | [Valid Palindrome    ](https://leetcode.com/problems/valid-palindrome) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_125/Solution.java) | Easy |
+20 | [Valid Parentheses     ](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_20/Solution.java) | Easy |
+36 | [Valid Sudoku     ](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_36/Solution.java) | Medium |
 98 | [Validate Binary Search Tree     ](https://leetcode.com/problems/validate-binary-search-tree) | [To-Do]() | Medium |
 324 | [Wiggle Sort II     ](https://leetcode.com/problems/wiggle-sort-ii) | [To-Do]() | Medium |
 44 | [Wildcard Matching     ](https://leetcode.com/problems/wildcard-matching) | [To-Do]() | Hard |
