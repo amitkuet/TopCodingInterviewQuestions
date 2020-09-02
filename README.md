@@ -40,8 +40,8 @@ P.no |     Problem |                Solution | Difficulty |
 287 | [Find the Duplicate Number     ](https://leetcode.com/problems/find-the-duplicate-number) | [To-Do]() | Medium |
 41 | [First Missing Positive     ](https://leetcode.com/problems/first-missing-positive/) | [To-Do]() | Hard |
 387 | [First Unique Character in a String     ](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_387/Solution.java) | Easy |
-412 | [Fizz Buzz     ](https://leetcode.com/problems/fizz-buzz) | [To-Do]() | Easy |
-251 | [Flatten 2D Vector     ](https://leetcode.com/problems/flatten-2d-vector) | [To-Do]() | Medium |
+412 | [Fizz Buzz     ](https://leetcode.com/problems/fizz-buzz) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_412/Solution.java) | Easy |
+251 | [Flatten 2D Vector     ](https://leetcode.com/problems/flatten-2d-vector) | [Premium] | Medium |
 341 | [Flatten Nested List Iterator     ](https://leetcode.com/problems/flatten-nested-list-iterator/) | [To-Do]() | Medium |
 166 | [Fraction to Recurring Decimal      ](https://leetcode.com/problems/fraction-to-recurring-decimal) | [To-Do]() | Medium |
 289 | [Game of Life     ](https://leetcode.com/problems/game-of-life/) | [To-Do]() | Medium |
