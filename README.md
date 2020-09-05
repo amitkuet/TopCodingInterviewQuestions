@@ -41,8 +41,8 @@ P.no |     Problem |                Solution | Difficulty |
 41 | [First Missing Positive     ](https://leetcode.com/problems/first-missing-positive/) | [To-Do]() | Hard |
 387 | [First Unique Character in a String     ](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_387/Solution.java) | Easy |
 412 | [Fizz Buzz     ](https://leetcode.com/problems/fizz-buzz) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_412/Solution.java) | Easy |
-251 | [Flatten 2D Vector     ](https://leetcode.com/problems/flatten-2d-vector) | [Premium] | Medium |
-341 | [Flatten Nested List Iterator     ](https://leetcode.com/problems/flatten-nested-list-iterator/) | [To-Do]() | Medium |
+251 | [Flatten 2D Vector     ](https://leetcode.com/problems/flatten-2d-vector) | Premium | Medium |
+341 | [Flatten Nested List Iterator     ](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_341/Solution.java) | Medium |
 166 | [Fraction to Recurring Decimal      ](https://leetcode.com/problems/fraction-to-recurring-decimal) | [To-Do]() | Medium |
 289 | [Game of Life     ](https://leetcode.com/problems/game-of-life/) | [To-Do]() | Medium |
 134 | [Gas Station     ](https://leetcode.com/problems/gas-station/) | [To-Do]() | Medium |
@@ -79,7 +79,7 @@ P.no |     Problem |                Solution | Difficulty |
 149 | [Max Points on a Line     ](https://leetcode.com/problems/max-points-on-a-line/) | [To-Do]() | Hard |
 104 | [Maximum Depth of Binary Tree     ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [To-Do]() | Easy |
 152 | [Maximum Product Subarray     ](https://leetcode.com/problems/maximum-product-subarray/) | [To-Do]() | Medium |
-53 | [Maximum Subarray     ](https://leetcode.com/problems/maximum-subarray/) | [To-Do]() | Easy |
+53 | [Maximum Subarray     ](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_53/Solution.java) | Easy |
 4 | [Median of Two Sorted Arrays     ](https://leetcode.com/problems/median-of-two-sorted-arrays) | [To-Do]() | Hard |
 253 | [Meeting Rooms II     ](https://leetcode.com/problems/meeting-rooms-ii) | [To-Do]() | Medium |
 56 | [Merge Intervals     ](https://leetcode.com/problems/merge-intervals) | [To-Do]() | Medium |
