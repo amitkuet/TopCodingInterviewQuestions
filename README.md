@@ -78,7 +78,7 @@ P.no |     Problem |                Solution | Difficulty |
 169 | [Majority Element     ](https://leetcode.com/problems/majority-element/) | [To-Do]() | Easy |
 149 | [Max Points on a Line     ](https://leetcode.com/problems/max-points-on-a-line/) | [To-Do]() | Hard |
 104 | [Maximum Depth of Binary Tree     ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [To-Do]() | Easy |
-152 | [Maximum Product Subarray     ](https://leetcode.com/problems/maximum-product-subarray/) | [To-Do]() | Medium |
+152 | [Maximum Product Subarray     ](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_152/Solution.java) | Medium |
 53 | [Maximum Subarray     ](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/amitkuet/TopCodingInterviewQuestions/blob/master/src/main/java/com/amit/leetcode_53/Solution.java) | Easy |
 4 | [Median of Two Sorted Arrays     ](https://leetcode.com/problems/median-of-two-sorted-arrays) | [To-Do]() | Hard |
 253 | [Meeting Rooms II     ](https://leetcode.com/problems/meeting-rooms-ii) | [To-Do]() | Medium |
