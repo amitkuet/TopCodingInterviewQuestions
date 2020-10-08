@@ -46,7 +46,7 @@ P.no |     Problem |                Solution | Difficulty |
 166 | [Fraction to Recurring Decimal      ](https://leetcode.com/problems/fraction-to-recurring-decimal) | [To-Do]() | Medium |
 289 | [Game of Life     ](https://leetcode.com/problems/game-of-life/) | [To-Do]() | Medium |
 134 | [Gas Station     ](https://leetcode.com/problems/gas-station/) | [To-Do]() | Medium |
-22 | [Generate Parentheses     ](https://leetcode.com/problems/generate-parentheses) | [To-Do]() | Medium |
+22 | [Generate Parentheses     ](https://leetcode.com/problems/generate-parentheses) | [ToDo]() | Medium |
 49 | [Group Anagrams     ](https://leetcode.com/problems/group-anagrams) | [To-Do]() | Medium |
 202 | [Happy Number     ](https://leetcode.com/problems/happy-number/) | [To-Do]() | Easy |
 198 | [House Robber     ](https://leetcode.com/problems/house-robber) | [To-Do]() | Easy |
